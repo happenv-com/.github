@@ -122,27 +122,73 @@ Nasze produkty budujemy na open source i oddajemy, co możemy. Wszystko poniżej
       Uczy PHPStana i Larastana makr rejestrowanych na komponentach Filamenta, dzięki czemu kod wywoływany po makrze znów jest sprawdzany.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/happenv-com/filament-user-profile"><img src="https://raw.githubusercontent.com/happenv-com/filament-user-profile/4.x/art/banner.png" alt="Filament User Profile"></a>
+      <br>
+      <b><a href="https://github.com/happenv-com/filament-user-profile">Filament User Profile</a></b><br>
+      Strona profilu użytkownika w panelach Filamenta — każdą sekcję można podmienić, usunąć albo rozszerzyć o własne komponenty.
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
-| Plugin | Co robi |
-|---|---|
-| [**Filament User Profile**](https://github.com/happenv-com/filament-user-profile) | Strona profilu użytkownika w panelach Filamenta — każdą sekcję można podmienić, usunąć albo rozszerzyć o własne komponenty. |
 
 ### Paczki do Laravela
 
-| Paczka | Co robi |
-|---|---|
-| [**Laravel True Modular**](https://github.com/happenv-com/laravel-true-modular) | Sprawia, że modularny monolit jest jawny, deterministyczny i dający się analizować — topologiczna kolejność service providerów i rozszerzony cykl życia aplikacji. |
-| [**Laravel True Modular PHPStan**](https://github.com/happenv-com/laravel-true-modular-phpstan) | Pilnuje granic między modułami i typuje relacje dodawane przez moduły w runtime — statycznie, bez konfiguracji. |
-| [**Laravel True Modular Health**](https://github.com/happenv-com/laravel-true-modular-health) | Każdy moduł deklaruje własne health checki, zebrane razem z diagnostyką architektury w `module:doctor`. |
-| [**Laravel Access Control**](https://github.com/happenv-com/laravel-access-control) | Uprawnienia oparte na enumach i voterach dla modularnych aplikacji Laravel — każdy moduł wnosi własną logikę uprawnień. |
-| [**Laravel Ltree**](https://github.com/happenv-com/laravel-ltree) | Rozszerzenie PostgreSQL `ltree` w wygodnym API Laravela — do hierarchii i zapytań o drzewa. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/happenv-com/laravel-true-modular"><img src="https://raw.githubusercontent.com/happenv-com/laravel-true-modular/1.x/art/banner.png" alt="Laravel True Modular"></a>
+      <br>
+      <b><a href="https://github.com/happenv-com/laravel-true-modular">Laravel True Modular</a></b><br>
+      Sprawia, że modularny monolit jest jawny, deterministyczny i dający się analizować — topologiczna kolejność service providerów i rozszerzony cykl życia aplikacji.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/happenv-com/laravel-true-modular-phpstan"><img src="https://raw.githubusercontent.com/happenv-com/laravel-true-modular-phpstan/0.x/art/banner.png" alt="Laravel True Modular PHPStan"></a>
+      <br>
+      <b><a href="https://github.com/happenv-com/laravel-true-modular-phpstan">Laravel True Modular PHPStan</a></b><br>
+      Pilnuje granic między modułami i typuje relacje dodawane przez moduły w runtime — statycznie, bez konfiguracji.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/happenv-com/laravel-true-modular-health"><img src="https://raw.githubusercontent.com/happenv-com/laravel-true-modular-health/1.x/art/banner.png" alt="Laravel True Modular Health"></a>
+      <br>
+      <b><a href="https://github.com/happenv-com/laravel-true-modular-health">Laravel True Modular Health</a></b><br>
+      Każdy moduł deklaruje własne health checki, zebrane razem z diagnostyką architektury w <code>module:doctor</code>.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/happenv-com/laravel-access-control"><img src="https://raw.githubusercontent.com/happenv-com/laravel-access-control/2.x/art/banner.png" alt="Laravel Access Control"></a>
+      <br>
+      <b><a href="https://github.com/happenv-com/laravel-access-control">Laravel Access Control</a></b><br>
+      Uprawnienia oparte na enumach i voterach dla modularnych aplikacji Laravel — każdy moduł wnosi własną logikę uprawnień.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/happenv-com/laravel-ltree"><img src="https://raw.githubusercontent.com/happenv-com/laravel-ltree/1.x/art/banner.png" alt="Laravel LTree"></a>
+      <br>
+      <b><a href="https://github.com/happenv-com/laravel-ltree">Laravel LTree</a></b><br>
+      Rozszerzenie PostgreSQL <code>ltree</code> w wygodnym API Laravela — do hierarchii i zapytań o drzewa.
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ### Biblioteki PHP
 
-| Biblioteka | Co robi |
-|---|---|
-| [**Address Splitter**](https://github.com/happenv-com/address-splitter) | Dzieli adres na ulicę, numer budynku i numer lokalu, z formatami dla 27 krajów europejskich. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/happenv-com/address-splitter"><img src="https://raw.githubusercontent.com/happenv-com/address-splitter/1.x/art/banner.png" alt="Address Splitter"></a>
+      <br>
+      <b><a href="https://github.com/happenv-com/address-splitter">Address Splitter</a></b><br>
+      Dzieli adres na ulicę, numer budynku i numer lokalu, z formatami dla 27 krajów europejskich.
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 → [Wszystkie repozytoria](https://github.com/orgs/happenv-com/repositories)
 
