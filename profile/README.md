@@ -129,7 +129,12 @@ We build our products on open source and give back what we can. Everything below
       <b><a href="https://github.com/happenv-com/filament-user-profile">Filament User Profile</a></b><br>
       A user profile page for Filament panels, with every section replaceable, removable or extendable with your own components.
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/happenv-com/filament-comments"><img src="https://raw.githubusercontent.com/happenv-com/filament-comments/2.x/art/banner.png" alt="Filament Comments"></a>
+      <br>
+      <b><a href="https://github.com/happenv-com/filament-comments">Filament Comments</a></b><br>
+      Comments on any record — rich text or Markdown, mentions, quoting, shareable deep links and pagination.
+    </td>
   </tr>
 </table>
 
