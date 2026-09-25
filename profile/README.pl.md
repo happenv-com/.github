@@ -184,7 +184,7 @@ Nasze produkty budujemy na open source i oddajemy, co możemy. Wszystko poniżej
       <a href="https://github.com/happenv-com/address-splitter"><img src="https://raw.githubusercontent.com/happenv-com/address-splitter/1.x/art/banner.png" alt="Address Splitter"></a>
       <br>
       <b><a href="https://github.com/happenv-com/address-splitter">Address Splitter</a></b><br>
-      Dzieli adres na ulicę, numer budynku i numer lokalu, z formatami dla 27 krajów europejskich.
+      Dzieli adres na ulicę, numer budynku i numer lokalu, z formatami dla 29 krajów europejskich.
     </td>
     <td width="50%" valign="top"></td>
   </tr>

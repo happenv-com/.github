@@ -184,7 +184,7 @@ We build our products on open source and give back what we can. Everything below
       <a href="https://github.com/happenv-com/address-splitter"><img src="https://raw.githubusercontent.com/happenv-com/address-splitter/1.x/art/banner.png" alt="Address Splitter"></a>
       <br>
       <b><a href="https://github.com/happenv-com/address-splitter">Address Splitter</a></b><br>
-      Splits an address into street, building number and apartment number, with formats for 27 European countries.
+      Splits an address into street, building number and apartment number, with formats for 29 European countries.
     </td>
     <td width="50%" valign="top"></td>
   </tr>
